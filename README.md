@@ -2,8 +2,7 @@
 
 A minimalist CLI for building structured, production-ready LLM prompts using XML tagging and best practices. It helps reduce hallucinations by creating clear boundaries between role, context, and instructions.
 
-![Terminal Demo](https://asciinema.org/a/demo.cast)
-(Note: You can view this recording by running `asciinema play demo.cast` locally)
+![Terminal Demo](./demo.gif)
 
 ## Features
 
