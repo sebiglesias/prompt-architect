@@ -1,6 +1,8 @@
 # prompt-architect
 
-A CLI tool to build structured, production-ready prompts based on the components defined in the website documentation. It uses XML tagging to define boundaries between roles, context, instructions, and data to reduce model hallucinations.
+A minimalist CLI for building structured, production-ready LLM prompts using XML tagging and best practices. It helps reduce hallucinations by creating clear boundaries between role, context, and instructions.
+
+![Terminal Demo](./demo.gif)
 
 ## Features
 
